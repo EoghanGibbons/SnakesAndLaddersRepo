@@ -1,0 +1,79 @@
+material SnakesAndLadders/Red
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8
+
+			texture_unit
+			{
+				texture red.png
+			}
+		}
+	}
+}
+
+material SnakesAndLadders/Blue
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8
+
+			texture_unit
+			{
+				texture blue.png
+			}
+		}
+	}
+}
+
+material SnakesAndLadders/Green
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8
+
+			texture_unit
+			{
+				texture green.png
+			}
+		}
+	}
+}
+
+material SnakesAndLadders/Yellow
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8
+
+			texture_unit
+			{
+				texture yellow.png
+			}
+		}
+	}
+}
+
+material SnakesAndLadders/LadderSnake
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8
+
+			texture_unit
+			{
+				texture LadderSnake.jpg
+			}
+		}
+	}
+}
